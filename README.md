@@ -1,5 +1,4 @@
-# ATM-Dashboard-Analysis
-💳 ATM Transaction Dashboard 📊
+# 💳 ATM Transaction Dashboard 📊
 A Power BI dashboard delivering a clear, interactive, and data-driven view of ATM operations — including 💰 revenues, ⚙️ maintenance costs, and 📈 transaction trends — across multiple regions. Designed for decision-makers to track performance and optimize efficiency.
 
 📌 1. Dashboard Overview
@@ -24,11 +23,11 @@ Breakdown of expenses for selected months (Aug, Dec, Mar, Nov) using 📊 pie ch
 
 📡 VSAT AMC – Satellite terminal maintenance
 
-Key Metrics:
-📌 Avg. Monthly Transactions: 5.22K
-📌 Avg. Monthly Revenue: 50.08K
-📌 Total Cost: 77M
-📌 Gross Profit %: 56.87%
+Key Metrics:                           
+📌 Avg. Monthly Transactions: 5.22K                 
+📌 Avg. Monthly Revenue: 50.08K                        
+📌 Total Cost: 77M                     
+📌 Gross Profit %: 56.87%                    
 
 💹 3. Revenue Analysis – ATM & MHA
 Revenue sources:
