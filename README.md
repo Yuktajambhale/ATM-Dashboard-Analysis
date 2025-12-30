@@ -1,3 +1,4 @@
+![image (1)](https://github.com/user-attachments/assets/614c6b89-895a-4c3a-bc48-89cbf3a8d3c6)
 # 💳 ATM Transaction Dashboard 📊
 A Power BI dashboard delivering a clear, interactive, and data-driven view of ATM operations — including 💰 revenues, ⚙️ maintenance costs, and 📈 transaction trends — across multiple regions. Designed for decision-makers to track performance and optimize efficiency.
 
